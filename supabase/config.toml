@@ -1,0 +1,7 @@
+project_id = "pacgjrqczftsfffuzwtk"
+
+[functions.health-assistant]
+verify_jwt = false
+
+[functions.send-report-notification]
+verify_jwt = true
